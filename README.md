@@ -1,2 +1,2 @@
 # git-test
-For function testing and general debugging
+For function/connectivity testing and general debugging
